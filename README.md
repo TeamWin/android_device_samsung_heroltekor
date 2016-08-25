@@ -11,5 +11,4 @@ Add to `.repo/local_manifests/heroltekor.xml`:
 
 Then run `repo sync` to check it out.
 
-Kernel sources are available at: https://github.com/jcadduono/nethunter_kernel_herolte/tree/twrp-6.0
-
+Kernel sources are available at: https://github.com/jcadduono/android_kernel_samsung_universal8890/tree/twrp-6.0
